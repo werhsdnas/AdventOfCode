@@ -1,3 +1,4 @@
+package day_seven;
 
 import java.util.ArrayList;
 import java.util.HashMap;
